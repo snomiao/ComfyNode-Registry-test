@@ -1,0 +1,14 @@
+[project]
+name = "comfynode-registry-test"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/snomiao/ComfyNode-Registry-test"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyNode-Registry-test"
+Icon = ""
+Models = [{location = "/checkpoints/model.safetensor", model_url = "https://example.com/model.zip"}]
