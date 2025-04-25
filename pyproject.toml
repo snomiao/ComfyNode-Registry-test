@@ -1,0 +1,15 @@
+[project]
+name = "node-registry-test"
+description = ""
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/snomiao/ComfyNode-Registry-test"
+# Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "snomiao"
+DisplayName = "ComfyNode-Registry-test"
+Icon = ""
+
